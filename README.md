@@ -27,10 +27,6 @@
 
 - 📫 How to reach me **histonemax@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hismax&show_icons=true&locale=en&layout=compact" alt="hismax" /></p>
-
----
-
 <h1 align="center">你好 😊，我是HistoneMax</h1>
 
 <h3 align="center">无限进步</h3>
