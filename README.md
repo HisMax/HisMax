@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 😊, I'm HistoneMax (默子)</h1>
 
 <h3 align="center">INFINITE PROGRESS</h3>
@@ -9,11 +10,14 @@
 - 🎮 **Hobbies**: Minecraft, Genshin Impact, Oxygen Not Included, Cities: Skylines, Europa Universalis IV  
 - 📖 **Recent Reads**:  
   - *Thinking, Fast and Slow*  
-  - *Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future*  
   - *The Idiot*  
   - *Social Psychology*  
 
+- 🌱 **Learning**: I'm currently learning **English and Japanese** to expand my horizons and enhance my skills in global communication.  
+
 - 📫 How to reach me **histonemax@gmail.com**
+
+- My Blog Website: [Mozi'S Blog](https://histone.top)
 
 ---
 
@@ -25,9 +29,30 @@
 - 📚 **学术兴趣**：格式塔心理学、进化心理学、女性主义理论、进化社会学  
 - 🎮 **爱好**：Minecraft、原神、缺氧、城市：天际线、欧陆风云4  
 - 📖 **最近阅读**：  
-  - 《思考，快与慢》  
-  - 《埃隆·马斯克：特斯拉、SpaceX与寻找美好未来》  
+  - 《思考，快与慢》   
   - 《白痴》  
   - 《社会心理学》  
 
+- 🌱 **正在学习**：目前正在学习 **英语和日语**，以拓宽视野，提升国际交流能力。  
+
 - 📫 如何联系我 **histonemax@gmail.com**
+
+---
+
+<h1 align="center">こんにちは 😊、HistoneMax（默子）です</h1>
+
+<h3 align="center">無限の進歩</h3>
+
+- 💻 **専門分野**：Python、人工知能、大規模言語モデル（GPT-3、GPT-4）、Transformer、GAN、マルチモーダルモデル、深層学習アーキテクチャの最適化  
+- 📚 **学術的関心**：ゲシュタルト心理学、進化心理学、フェミニズム理論、進化社会学  
+- 🎮 **趣味**：Minecraft、原神、Oxygen Not Included、Cities: Skylines、Europa Universalis IV  
+- 📖 **最近読んだ本**：  
+  - 『ファスト&スロー』  
+  - 『白痴』  
+  - 『社会心理学』  
+
+- 🌱 **学習中**：現在、**英語と日本語**を勉強中です。視野を広げ、国際的なコミュニケーション能力を高めたいと考えています。  
+
+- 📫 **連絡先**：histonemax@gmail.com  
+
+---
